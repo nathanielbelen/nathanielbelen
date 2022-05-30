@@ -1,6 +1,6 @@
 ## Hi there! My name is Nathaniel Belen! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&flat-square&logoColor=blue&color=white)](https://www.linkedin.com/in/nathanielbelen/)
+[![LinkedIn](https://img.shields.io/badge/nathanielbelen-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanielbelen/)
 
 - :round_pushpin: Based in Los Angeles, CA
 - 🖥️ Currently employed as a Software Engineering Immersive Resident at Galvanize
