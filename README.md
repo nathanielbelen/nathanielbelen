@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/nathanielbelen-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanielbelen/)
 
 - :round_pushpin: Based in Los Angeles, CA
-- 🖥️ Currently employed as a Software Engineering Immersive Resident at Galvanize
+- 🖥️ Previously employed as a Software Engineering Immersive Resident at Galvanize
 
 ### Languages & Tools
 
