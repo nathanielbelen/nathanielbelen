@@ -4,7 +4,6 @@
 
 - :round_pushpin: Based in Los Angeles, CA
 - 🖥️ Previously employed as a Software Engineering Immersive Resident at Galvanize
-- 🚀 Currently, I'm focused on two projects: [risorin's store](https://risorins.com), and [werk](https://github.com/nathanielbelen/werk), a job application tracking application. 💼🛍️
 
 Beyond coding, I have a deep fascination for video games, sports, music, food, and the exciting technologies behind them. Come chat with me about anything!
 
